@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mikuiper/repos/CS-practice/async-await/async-await.csproj",
-      "projectName": "async-await",
-      "projectPath": "/home/mikuiper/repos/CS-practice/async-await/async-await.csproj",
+      "projectUniqueName": "/home/mikuiper/repos/CS-practice/async-await-second/async-await-second.csproj",
+      "projectName": "async-await-second",
+      "projectPath": "/home/mikuiper/repos/CS-practice/async-await-second/async-await-second.csproj",
       "packagesPath": "/home/mikuiper/.nuget/packages/",
-      "outputPath": "/home/mikuiper/repos/CS-practice/async-await/obj/",
+      "outputPath": "/home/mikuiper/repos/CS-practice/async-await-second/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mikuiper/.nuget/NuGet/NuGet.Config"

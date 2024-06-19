@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mikuiper/repos/CS-practice/async-await/async-await.csproj": {}
+    "/home/mikuiper/repos/CS-practice/SimpleBackend/SimpleBackend.csproj": {}
   },
   "projects": {
-    "/home/mikuiper/repos/CS-practice/async-await/async-await.csproj": {
+    "/home/mikuiper/repos/CS-practice/SimpleBackend/SimpleBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mikuiper/repos/CS-practice/async-await/async-await.csproj",
-        "projectName": "async-await",
-        "projectPath": "/home/mikuiper/repos/CS-practice/async-await/async-await.csproj",
+        "projectUniqueName": "/home/mikuiper/repos/CS-practice/SimpleBackend/SimpleBackend.csproj",
+        "projectName": "SimpleBackend",
+        "projectPath": "/home/mikuiper/repos/CS-practice/SimpleBackend/SimpleBackend.csproj",
         "packagesPath": "/home/mikuiper/.nuget/packages/",
-        "outputPath": "/home/mikuiper/repos/CS-practice/async-await/obj/",
+        "outputPath": "/home/mikuiper/repos/CS-practice/SimpleBackend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mikuiper/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -49,6 +59,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

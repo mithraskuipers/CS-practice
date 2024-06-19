@@ -1,0 +1,11 @@
+dotnet new webapi -n "SimpleBackend"
+
+Program.cs
+
+
+WeatherForecast.cs
+
+
+
+Controllers/WeatherForecastController.cs
+

@@ -1,0 +1,15 @@
+/home/mikuiper/repos/CS-practice/async-await/bin/Debug/net7.0/async-await
+/home/mikuiper/repos/CS-practice/async-await/bin/Debug/net7.0/async-await.deps.json
+/home/mikuiper/repos/CS-practice/async-await/bin/Debug/net7.0/async-await.runtimeconfig.json
+/home/mikuiper/repos/CS-practice/async-await/bin/Debug/net7.0/async-await.dll
+/home/mikuiper/repos/CS-practice/async-await/bin/Debug/net7.0/async-await.pdb
+/home/mikuiper/repos/CS-practice/async-await/obj/Debug/net7.0/async-await.csproj.AssemblyReference.cache
+/home/mikuiper/repos/CS-practice/async-await/obj/Debug/net7.0/async-await.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikuiper/repos/CS-practice/async-await/obj/Debug/net7.0/async-await.AssemblyInfoInputs.cache
+/home/mikuiper/repos/CS-practice/async-await/obj/Debug/net7.0/async-await.AssemblyInfo.cs
+/home/mikuiper/repos/CS-practice/async-await/obj/Debug/net7.0/async-await.csproj.CoreCompileInputs.cache
+/home/mikuiper/repos/CS-practice/async-await/obj/Debug/net7.0/async-await.dll
+/home/mikuiper/repos/CS-practice/async-await/obj/Debug/net7.0/refint/async-await.dll
+/home/mikuiper/repos/CS-practice/async-await/obj/Debug/net7.0/async-await.pdb
+/home/mikuiper/repos/CS-practice/async-await/obj/Debug/net7.0/async-await.genruntimeconfig.cache
+/home/mikuiper/repos/CS-practice/async-await/obj/Debug/net7.0/ref/async-await.dll
