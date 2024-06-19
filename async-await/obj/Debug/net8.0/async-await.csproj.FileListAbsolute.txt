@@ -1,0 +1,14 @@
+/home/mkuipers/repos/CS-practice/async-await/bin/Debug/net8.0/async-await
+/home/mkuipers/repos/CS-practice/async-await/bin/Debug/net8.0/async-await.deps.json
+/home/mkuipers/repos/CS-practice/async-await/bin/Debug/net8.0/async-await.runtimeconfig.json
+/home/mkuipers/repos/CS-practice/async-await/bin/Debug/net8.0/async-await.dll
+/home/mkuipers/repos/CS-practice/async-await/bin/Debug/net8.0/async-await.pdb
+/home/mkuipers/repos/CS-practice/async-await/obj/Debug/net8.0/async-await.GeneratedMSBuildEditorConfig.editorconfig
+/home/mkuipers/repos/CS-practice/async-await/obj/Debug/net8.0/async-await.AssemblyInfoInputs.cache
+/home/mkuipers/repos/CS-practice/async-await/obj/Debug/net8.0/async-await.AssemblyInfo.cs
+/home/mkuipers/repos/CS-practice/async-await/obj/Debug/net8.0/async-await.csproj.CoreCompileInputs.cache
+/home/mkuipers/repos/CS-practice/async-await/obj/Debug/net8.0/async-await.dll
+/home/mkuipers/repos/CS-practice/async-await/obj/Debug/net8.0/refint/async-await.dll
+/home/mkuipers/repos/CS-practice/async-await/obj/Debug/net8.0/async-await.pdb
+/home/mkuipers/repos/CS-practice/async-await/obj/Debug/net8.0/async-await.genruntimeconfig.cache
+/home/mkuipers/repos/CS-practice/async-await/obj/Debug/net8.0/ref/async-await.dll
